@@ -1,5 +1,5 @@
 # scryptlib
-Javascript/TypeScript SDK for integration of Bitcoin SV Smart Contracts written in the sCrypt language.
+Javascript/TypeScript SDK for integration of Turing BC Smart Contracts written in the sCrypt language.
 
 [![Build Status](https://travis-ci.com/sCrypt-Inc/scryptlib.svg?branch=master)](https://travis-ci.com/sCrypt-Inc/scryptlib)
 
